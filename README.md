@@ -2,7 +2,7 @@
 
 Java Objects for PubNub Messages changing JSON to Java Getter Methods.
 
-##### Usage
+##### Usage for PubNub Java Message Objects Example
 
 ```java
 PubNubMessageWrapper pubNubMessageWrapper = new PubNubMessageWrapper();
